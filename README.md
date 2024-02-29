@@ -15,7 +15,7 @@ This is a sample project that utilizes TypeScript, Vite, Tailwind CSS, and Axios
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation && Usage
+## Installation & Usage
 
 1. Clone the repository:
 
@@ -72,7 +72,7 @@ src/                # Source code
 |-- assets/         # React svg
 |-- components/     # React components
 |-- types/          # Types & Interface declarations
-|-- Posts.tsx         # Posts page
+|-- Posts.tsx       # Posts page
 |-- main.tsx        # Entry point and main application file
 |-- index.css
 ```
